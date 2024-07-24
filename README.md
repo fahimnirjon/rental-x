@@ -1,2 +1,2 @@
 # RentalX_24-07-24
-Welcome to our comprehensive tutorial on building a responsive car rental website using HTML, CSS, and JavaScript!
+Welcome to our responsive car rental website using HTML, CSS, and JavaScript!
